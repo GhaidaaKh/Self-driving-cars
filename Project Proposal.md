@@ -15,8 +15,7 @@ https://www.kaggle.com/kumaresanmanickavelu/lyft-udacity-challenge
 
 # Algorithm
 
-We will apply computer vision and neural network algorithm![image](https://user-images.githubusercontent.com/66681194/148642079-d82f2214-2b39-485e-9db0-c1917944bd8f.png)
-
+We will apply computer vision and neural network algorithm
 
 # Tools
 
